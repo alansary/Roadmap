@@ -50,7 +50,10 @@
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 ## Computer Vision
+- [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
 - [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+- [Autonomous Cars: Deep Learning and Computer Vision in Python](https://www.udemy.com/course/autonomous-cars-deep-learning-and-computer-vision-in-python/?referralCode=ABD5D1368BBD00D65226&couponCode=KEEPLEARNING)
 - [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
 - [CAP6412 Advanced Computer Vision - Spring 2023](https://www.youtube.com/playlist?list=PLd3hlSJsX_In7qup928HaHmilugBGctuF)
 
