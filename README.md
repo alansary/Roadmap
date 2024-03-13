@@ -47,7 +47,12 @@
 - [15-721 Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
 
 ## NLP
+- [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
+- [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
+## Frameworkds
+- [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 ## Computer Vision
 - [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
