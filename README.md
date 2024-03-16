@@ -83,6 +83,8 @@
 
 ## LLMs
 - [ACEGPT](https://www.acegpt.org)
+- [C4AI Command-R](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
+- [C4AI Command-R](https://txt.cohere.com/command-r/)
 
 ## Prompt Engineering
 [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
