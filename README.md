@@ -1,7 +1,3 @@
-## Roadmaps
-- [AI Expert Roadmap](https://i.am.ai/roadmap/#note)
-- [LLM Engineer Roadmap](https://github.com/mlabonne/llm-course)
-
 ## Programming Foundations
 - [Python Programming](https://www.youtube.com/watch?v=nLRL_NcnK-4)
 - [Data Structures Decode](https://cloudnativebasecamp.com/courses/ds01/)
@@ -132,6 +128,7 @@
 - [GPT3 Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
 - [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/pdf/2309.00267.pdf)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
@@ -157,3 +154,13 @@
 - [Transformers](https://aman.ai/primers/ai/transformers/#google_vignette)
 - [Bidirectional Encoder Representations from Transformers (BERT)](https://aman.ai/primers/ai/bert/)
 - [Generative Pre-trained Transformer (GPT)](https://aman.ai/primers/ai/gpt/)
+
+## Vector Databases
+- [Qdrant](https://qdrant.tech)
+- [Qdrant](https://github.com/qdrant/qdrant)
+- [Faiss](https://faiss.ai)
+- [Faiss](https://github.com/facebookresearch/faiss)
+
+## Roadmaps
+- [AI Expert Roadmap](https://i.am.ai/roadmap/#note)
+- [LLM Engineer Roadmap](https://github.com/mlabonne/llm-course)
