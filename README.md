@@ -83,6 +83,19 @@
 - [Ace Your Next System Design Interview](https://bytebytego.com)
 
 ## LLMs
+- [BERT](https://huggingface.co/docs/transformers/model_doc/bert)
+- [Grok-1](https://x.ai/blog/grok-os)
+- [Grok-1](https://huggingface.co/xai-org/grok-1)
+- [Grok-1](https://github.com/xai-org/grok-1)
+- [Llama](https://llama.meta.com)
+- [Llama](https://ai.meta.com/blog/large-language-model-llama-meta-ai/)
+- [Llama](https://github.com/meta-llama/llama)
+- [Llama](https://huggingface.co/meta-llama)
+- [Llama](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
+- [Llama2](https://huggingface.co/docs/transformers/en/model_doc/llama2)
+- [GPT](https://huggingface.co/docs/transformers/en/model_doc/openai-gpt)
+- [GPT-2](https://huggingface.co/docs/transformers/en/model_doc/gpt2)
+- [T5](https://huggingface.co/docs/transformers/en/model_doc/t5)
 - [ACEGPT](https://www.acegpt.org)
 - [C4AI Command-R](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
 - [C4AI Command-R](https://txt.cohere.com/command-r/)
@@ -97,6 +110,12 @@
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 - [PyTorch Paper Replicating (building a vision transformer with PyTorch)](https://www.youtube.com/watch?v=tjpW_BY8y3g&list=PLRv0nkBlcwMqxGFa9s_c4Cc2opsldu8h_&index=4)
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+- [Retrieval Augmented Generation (RAG) Explained](https://www.youtube.com/watch?v=rhZgXNdhWDY)
+- [Local Retrieval Augmented Generation (RAG) from Scratch](https://www.youtube.com/watch?v=qN_2fnOPY-M)
+- [LangChain Crash Course For Beginners](https://www.youtube.com/watch?v=nAmC7SoVLd8)
+
+## Hugging Face
+- [Hugging Face](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
 
 ## NLP Papers
 - [LONG SHORT-TERM MEMORY](https://www.bioinf.jku.at/publications/older/2604.pdf)
@@ -112,6 +131,7 @@
 - [Language Models are Unsupervised Multitask Learners (GPT-2)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [GPT3 Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
 - [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/pdf/2309.00267.pdf)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
