@@ -45,7 +45,9 @@
 ## NLP
 - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
-- [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [Multimodal Machine Learning](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)
+- [Multimodal Machine Learning | CVPR 2022 Tutorial](https://www.youtube.com/playlist?list=PLki3HkfgNEsKPcpj5Vv2P98SRAT9wxIDa)
 
 ## Frameworkds
 - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
@@ -96,6 +98,16 @@
 - [C4AI Command-R](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
 - [C4AI Command-R](https://txt.cohere.com/command-r/)
 
+## AI Models
+- [Sora](https://openai.com/sora)
+- [Sora](https://openai.com/research/video-generation-models-as-world-simulators)
+
+## AI Agents
+- [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://os-copilot.github.io)
+- [OS-COPILOT: TOWARDS GENERALIST COMPUTER AGENTS WITH SELF-IMPROVEMENT](https://arxiv.org/pdf/2402.07456.pdf)
+- [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://github.com/OS-Copilot/FRIDAY)
+- [MultiOn](https://www.multion.ai)
+
 ## Prompt Engineering
 [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
@@ -109,6 +121,13 @@
 - [Retrieval Augmented Generation (RAG) Explained](https://www.youtube.com/watch?v=rhZgXNdhWDY)
 - [Local Retrieval Augmented Generation (RAG) from Scratch](https://www.youtube.com/watch?v=qN_2fnOPY-M)
 - [LangChain Crash Course For Beginners](https://www.youtube.com/watch?v=nAmC7SoVLd8)
+- [AGI is Already Here: SHOCKING Details Exposed](https://www.youtube.com/watch?v=2CG3P_3qJR4)
+
+## Influencers
+- [Jimmy Apples 🍎/acc](https://twitter.com/apples_jimmy)
+
+## AGI
+- [Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/pdf/2311.02462.pdf)
 
 ## Hugging Face
 - [Hugging Face](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
