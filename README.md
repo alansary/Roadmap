@@ -97,6 +97,7 @@
 - [ACEGPT](https://www.acegpt.org)
 - [C4AI Command-R](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
 - [C4AI Command-R](https://txt.cohere.com/command-r/)
+- [Falcon LLM](https://falconllm.tii.ae/falcon-models.html)
 
 ## AI Models
 - [Sora](https://openai.com/sora)
