@@ -91,6 +91,7 @@
 - [Llama](https://huggingface.co/meta-llama)
 - [Llama](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
 - [Llama2](https://huggingface.co/docs/transformers/en/model_doc/llama2)
+- [llama2.c](https://github.com/karpathy/llama2.c/tree/master)
 - [GPT](https://huggingface.co/docs/transformers/en/model_doc/openai-gpt)
 - [GPT-2](https://huggingface.co/docs/transformers/en/model_doc/gpt2)
 - [T5](https://huggingface.co/docs/transformers/en/model_doc/t5)
@@ -98,6 +99,9 @@
 - [C4AI Command-R](https://huggingface.co/CohereForAI/c4ai-command-r-v01)
 - [C4AI Command-R](https://txt.cohere.com/command-r/)
 - [Falcon LLM](https://falconllm.tii.ae/falcon-models.html)
+
+## LMSYS Chatbot Arena Leaderboard
+- [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 
 ## AI Models
 - [Sora](https://openai.com/sora)
