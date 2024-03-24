@@ -46,6 +46,8 @@
 - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+- [Stanford CS25: Transformers United V3](https://www.youtube.com/playlist?list=PLNQo_x2EPWCkrhwatKK8t0q1HKad9o1Ye)
 - [Multimodal Machine Learning](https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc)
 - [Multimodal Machine Learning | CVPR 2022 Tutorial](https://www.youtube.com/playlist?list=PLki3HkfgNEsKPcpj5Vv2P98SRAT9wxIDa)
 
